@@ -2,7 +2,7 @@
 const tiktokVideos = [
   {
     thumbnail:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TikTok_Icon_Black.svg/1200px-TikTok_Icon_Black.svg.png",
+      "https://www.tiktok.com/@pastor_samuel_nasam/video/7573123481420713228?is_from_webapp=1&sender_device=pc&web_id=7590598204099118613",
     embed: `<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@example/video/123456789" 
             data-video-id="123456789" style="max-width: 605px;min-width: 325px;">
             <section>Loading...</section></blockquote>

@@ -1,5 +1,6 @@
 // Add all your YouTube video IDs here
 const videos = [
+  "vAqEz-EQITg",
   "jQpi9u2GGD0",
   "A0oJcCfSHzI",
   "HyKE8oRAaXQ",
@@ -37,7 +38,7 @@ function displayVideos() {
 
             <div class="yt-actions">
         <a
-          href="http://www,youtube.com/watch?v=VIDEO_ID"
+          href="http://www.youtube.com/watch?v=VIDEO_ID"
           target="_blank"
           class="yt-btn subscribe"
           >Subscribe</a
